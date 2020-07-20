@@ -2,3 +2,5 @@ Esta es mi primera linea
 
 Hola soy Erik, y esta es mi historia:
 todo comenzo un Julio del 2020, en media pandemia tuve la necesidad de tomar una decision.
+Esta decision no seria facil, seria duro pues con llevaba un gran sacrificio. Pero
+al final todo el esfuerzzo valdria la pena con la gran rencompensa que era aprender Git.
